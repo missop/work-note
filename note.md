@@ -4,6 +4,8 @@
 
 nodejs git 然后通过npm安装nrm,npx,yarn,create-react-app,http-server,n,parcel,ts-node,typescript,jsonparse
 
+设置~/.gitconfig
+
 chrome,chrome插件,从github捞取
 
 zsh命令行 
